@@ -10,7 +10,17 @@ This project is licensed under the CC BY-NC-SA 4.0 license. For more details, pl
 
 Paper Link: []
 
-Malicious-Educator Benchmark Link: [[DukeCEILab/Malicious_Educator · Datasets at Hugging Face](https://huggingface.co/datasets/DukeCEILab/Malicious_Educator)]
+
+### Malicious-Educator dataset
+
+| Model                    | Download                                                                                                                         |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| o1, o1-pro               | [DukeCEICenter/Malicious_Educator_hcot_o1 · Datasets at Hugging Face](https://huggingface.co/datasets/DukeCEICenter/Malicious_Educator_hcot_o1) |
+| o3-mini                  | [DukeCEICenter/Malicious_Educator_hcot_o3-mini · Datasets at Hugging Face](https://huggingface.co/datasets/DukeCEICenter/Malicious_Educator_hcot_o3-mini)  |
+| DeepSeek-R1              | [DukeCEICenter/Malicious_Educator_hcot_DeepSeek-R1 · Datasets at Hugging Face](https://huggingface.co/datasets/DukeCEICenter/Malicious_Educator_hcot_DeepSeek-R1)  |
+| Gemini-2.0-Flash-Thinking| [DukeCEICenter/Malicious_Educator_hcot_Gemini-2.0-Flash-Thinking · Datasets at Hugging Face](https://huggingface.co/datasets/DukeCEICenter/Malicious_Educator_hcot_Gemini-2.0-Flash-Thinking) |
+
+
 
 The key points are as follows:
 - Hijacking Chain-of-Thought (H-CoT) successfully jailbreaks Large Reasoning Models (LRMs), including OpenAI's O1/O3, DeepSeek-R1, and Gemini 2.0 Flash Thinking.

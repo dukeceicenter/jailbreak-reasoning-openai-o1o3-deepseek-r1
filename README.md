@@ -8,6 +8,10 @@
 
 The official implementation for our paper "H-CoT: Hijacking the Chain-of-Thought Safety Reasoning Mechanism to Jailbreak Large Reasoning Models, Including OpenAI o1/o3, DeepSeek-R1, and Gemini 2.0 Flash Thinking"
 
+**Martin Kuo<sup>1\*</sup>** **Jianyi Zhang<sup>1\*</sup>** **Aolin Ding<sup>2</sup>** **Qinsi Wang<sup>1</sup>** **Louis DiValentin<sup>3</sup>** **Yujia Bao<sup>2</sup>** **Wei Wei<sup>2</sup>** **Da-Cheng Juan<sup>2</sup>** **Hai Li<sup>1</sup>** **Yiran Chen<sup>1</sup>**
+
+*Equal Contribution. This paper also serves as Jianyi Zhang and Martin Kuo's final report for [OpenAI’s o3-mini Early Access for Safety Testing.](https://openai.com/index/early-access-for-safety-testing/)
+
 This project is licensed under the CC BY-NC-SA 4.0 license. For more details, please refer to the LICENSE file.
 
 Paper Link: []

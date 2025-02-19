@@ -208,16 +208,9 @@ The Malicious-Educator Benchmark is an ambitious and meaningful project. To util
 
 ### How to help:
 
-Our H-CoT are all publicly released in the **Malicious-Educator dataset**.
+The H-CoT in the Malicious-Educator dataset may become ineffective due to continuous model updates.
 
-| Model                    | Download                                                                                                                         |
-| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
-| o1, o1-pro               | [🤗 HuggingFace](https://huggingface.co/datasets/DukeCEICenter/Malicious_Educator_hcot_o1) |
-| o3-mini                  | [🤗 HuggingFace](https://huggingface.co/datasets/DukeCEICenter/Malicious_Educator_hcot_o3-mini)  |
-| DeepSeek-R1              | [🤗 HuggingFace](https://huggingface.co/datasets/DukeCEICenter/Malicious_Educator_hcot_DeepSeek-R1)  |
-| Gemini-2.0-Flash-Thinking| [🤗 HuggingFace](https://huggingface.co/datasets/DukeCEICenter/Malicious_Educator_hcot_Gemini-2.0-Flash-Thinking) |
-
-The H-CoT in the Malicious-Educator dataset may become ineffective due to continuous model updates. If you find that some H-CoTs are no longer effective or discover new harmful goals along with effective H-CoTs, kindly report them via GitHub issues or submit them through the Google Form below.
+**If you find that some H-CoTs are no longer effective or discover new harmful goals along with effective H-CoTs, kindly report them via GitHub issues or submit them through the Google Form below.**
 
 If you're interested, you are also welcome to contribute your data collection to make the Malicious-Educator dataset more comprehensive.
 
@@ -239,6 +232,14 @@ Kindly adhere to the form format provided below:
 
 **google form link: https://forms.gle/GVftdrcgxC8efGe68**
 
+Our H-CoT are all publicly released in the **Malicious-Educator dataset**.
+
+| Model                    | Download                                                                                                                         |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| o1, o1-pro               | [🤗 HuggingFace](https://huggingface.co/datasets/DukeCEICenter/Malicious_Educator_hcot_o1) |
+| o3-mini                  | [🤗 HuggingFace](https://huggingface.co/datasets/DukeCEICenter/Malicious_Educator_hcot_o3-mini)  |
+| DeepSeek-R1              | [🤗 HuggingFace](https://huggingface.co/datasets/DukeCEICenter/Malicious_Educator_hcot_DeepSeek-R1)  |
+| Gemini-2.0-Flash-Thinking| [🤗 HuggingFace](https://huggingface.co/datasets/DukeCEICenter/Malicious_Educator_hcot_Gemini-2.0-Flash-Thinking) |
 
 ## Paper and Citation
 

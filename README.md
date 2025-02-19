@@ -14,7 +14,7 @@ The official implementation for our paper "H-CoT: Hijacking the Chain-of-Thought
 
 This project is licensed under the CC BY-NC-SA 4.0 license. For more details, please refer to the LICENSE file.
 
-Paper Link: []
+Paper Link: [📖[Paper Link](https://arxiv.org/html/2502.12893)]
 
 Website Link: [[🕶️Malicious-Educator](https://maliciouseducator.org/)]
 

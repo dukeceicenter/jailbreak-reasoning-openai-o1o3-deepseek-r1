@@ -246,7 +246,15 @@ Our H-CoT are all publicly released in the **Malicious-Educator dataset**.
 More technical details can be found in our paper. If you find H-CoT or Malicious-Educator useful or relevant to your project and research, please kindly cite our paper:
 
 ```bibtex
-
+@misc{kuo2025hcothijackingchainofthoughtsafety,
+      title={H-CoT: Hijacking the Chain-of-Thought Safety Reasoning Mechanism to Jailbreak Large Reasoning Models, Including OpenAI o1/o3, DeepSeek-R1, and Gemini 2.0 Flash Thinking}, 
+      author={Martin Kuo and Jianyi Zhang and Aolin Ding and Qinsi Wang and Louis DiValentin and Yujia Bao and Wei Wei and Da-Cheng Juan and Hai Li and Yiran Chen},
+      year={2025},
+      eprint={2502.12893},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.12893}, 
+}
 ```
 
 This project is licensed under the CC BY-NC-SA 4.0 license. For more details, please refer to the LICENSE file.
